@@ -313,11 +313,11 @@ padding:2vh;
 }
 
 #TitleFormation {
-  font-size: 3vw;
+  font-size: 2em;
 }
 
 #SubTitleFormation {
-  font-size: 2.8vw;
+  font-size: 0.8em;
 }
 }
 
@@ -371,7 +371,7 @@ padding:2vh;
   }
 
   #SubTitleFormation {
-    font-size: 1em;
+    font-size: 0.8em;
   }
 
   #WebSkills {
